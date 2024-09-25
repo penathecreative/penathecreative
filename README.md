@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @BrunoFernandes
+### 👋 Hi, I’m Bruno!
 - 👀 I’m interested in Full Stack Development, web apps, and creating user-focused solutions.
 - 🌱 I’m currently sharpening my skills in Angular, MERN stack, and React Native.
 - 💼 I’m open to collaborating on innovative tech projects or any opportunities where I can make an impact.
