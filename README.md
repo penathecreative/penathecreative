@@ -47,7 +47,7 @@ Originally from a leadership role in customer support, I bring people skills, pr
 
 I’m actively looking for roles or collaborations in:
 
-- Full Stack or Frontend Development  
+- Full Stack or Backend Development  
 - Cloud/DevOps Engineering  
 - Developer Relations or Tech-for-good projects  
 
