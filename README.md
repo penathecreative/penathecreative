@@ -23,7 +23,7 @@ Originally from a leadership role in customer support, I bring people skills, pr
 `Node.js` | `Express.js` | `FastAPI` | `Python` | `MongoDB` | `REST APIs` | `SQLAlchemy`
 
 **Cloud & DevOps:**  
-`AWS (EC2, S3, Lambda)` | `Docker` | `Nginx` | `CI/CD (coming soon)`  
+`AWS (EC2, S3, Lambda)` | `Docker` | `Nginx` | `CI/CD`  
 
 **Workflow & Tools:**  
 `Git` | `GitHub` | `Postman` | `Agile` | `Linux CLI`
