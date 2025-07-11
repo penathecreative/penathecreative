@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | Aspiring Cloud & DevOps Engineer**  
 🌍 Based in Amsterdam | Multilingual: 🇵🇹 🇬🇧 🇪🇸 🇫🇷  
-🎓 CareerFoundry Full-Stack Web Development Program (Specialization in Cloud Computing)  
+🎓 CareerFoundry Full-Stack Web Development Program (Specialization in Cloud Computing for web developers)  
 
 ---
 
