@@ -31,6 +31,10 @@ Originally from a leadership role in customer support, I bring people skills, pr
 ---
 
 ### 🧠 Recent Projects
+ 
+- **🎬 Nubay**  
+  A full-stack MERN e-commerce application designed to simulate a real-world online store, including authentication, product management, order processing, and online payments
+  _[Check it out](https://github.com/penathecreative/Nubay)_
 
 - **🎬 Filmsphere**  
   A full-stack MERN movie app with JWT auth, dynamic UI, and cloud deployment on AWS.  
