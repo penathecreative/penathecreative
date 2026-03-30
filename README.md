@@ -32,7 +32,7 @@ Originally from a leadership role in customer support, I bring people skills, pr
 
 ### 🧠 Recent Projects
  
-- **🎬 Nubay**  
+- **🛍️ Nubay**  
   A full-stack MERN e-commerce application designed to simulate a real-world online store, including authentication, product management, order processing, and online payments
   _[Check it out](https://github.com/penathecreative/Nubay)_
 
