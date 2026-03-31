@@ -31,7 +31,7 @@ Key experience:
 `Node.js` | `Express.js` | `FastAPI` | `Python` | `MongoDB` | `REST APIs` | `SQLAlchemy`
 
 **Cloud & Infrastructure:**  
-AWS (EC2, S3, Lambda) | Docker | Nginx | Deployment workflows
+`AWS (EC2, S3, Lambda)` | `Docker` | `Nginx` |`Deployment workflows`
 
 **Workflow & Tools:**  
 `Git` | `GitHub` | `Postman` | `Agile` | `Linux CLI`
